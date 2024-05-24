@@ -2,6 +2,10 @@
 
 This project uses WordPress, Xamp, and Divi to build a website for a business that produces Essential Oils. 
 
+## Screenshots
+
+![image](https://github.com/stefanoturcarelli/essential-oils-website/assets/67341828/c362b697-5fa8-4bf0-a0e8-45274e3124c4)
+
 ## What is WordPress?
 
 WordPress is a popular open-source content management system (CMS) for building and managing websites. Developers can use local development environments like XAMPP to install and run WordPress on their local machines for development and testing.

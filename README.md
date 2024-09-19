@@ -1,6 +1,6 @@
 # Essential Oils Website
 
-This project uses WordPress, Xamp, and Divi to build a website for a business that produces Essential Oils. 
+This project uses WordPress, Xamp, and Divi to build a mock website for a business that produces Essential Oils. 
 
 ## Screenshots
 
